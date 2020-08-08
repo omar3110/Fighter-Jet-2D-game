@@ -1,5 +1,5 @@
 # Fighter-Jet-2D-game
-Create with python/pygame module
+Created with python/pygame module
 I want to improve this game
 there are some problems in this code such as,
 the fighter_jet moves on both X and Y coordinate
